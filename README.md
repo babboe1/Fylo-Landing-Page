@@ -1,2 +1,2 @@
 # Fylo-Landing-Page
-Adark themed landing page
+A dark themed landing page
