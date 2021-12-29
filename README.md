@@ -1,2 +1,1 @@
-# Fylo-Landing-Page
-A dark themed landing page
+# Frontend Mentor - Fylo dark theme landing page solution
