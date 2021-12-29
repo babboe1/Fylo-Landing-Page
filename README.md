@@ -4,3 +4,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
