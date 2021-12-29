@@ -10,3 +10,4 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Author](#author)
