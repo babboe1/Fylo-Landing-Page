@@ -22,3 +22,5 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
