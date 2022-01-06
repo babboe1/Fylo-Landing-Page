@@ -2,7 +2,6 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	background-color: hsl(218, 28%, 13%);
 	color: hsl(0, 0%, 100%);
 	font-size: 14px;
 	font-family: 'Commissioner', sans-serif;
@@ -12,40 +11,230 @@ body {
 	padding: 0;
 	margin: 0;
 }
-
-#body_container {
-	border: 1px solid red;
+.ImageSize {
 	width: 100%;
-	max-width: 91.4rem;
+	height: 100%;
+	max-width: fit-content;
+}
+#body_container {
+	/* border: 1px solid red; */
+	background-color: hsl(217, 28%, 15%);
+	width: 100%;
+	max-width: 1440px;
 	margin: auto;
-   padding: 0 1rem;
+	padding: 2rem 0rem;
 	text-align: center;
 }
 #header {
-border: 1px solid yellow;
-   display: flex;
-   justify-content: space-between;
-   font-size: 12px;
-   font-weight: 400;
-   /* column-gap: 1rem; */
+	display: flex;
+	justify-content: space-between;
+	font-weight: 400;
+	padding: 0 1rem;
 }
 .Logo {
-   width: 100%;
-   max-width: 160px;
+	width: 100%;
+	max-width: 160px;
 }
 #nav {
-   display: flex;
-   align-items: center;
-   column-gap: 1rem;
+	display: flex;
+	align-items: center;
+	column-gap: 1rem;
 }
-
+#main {
+	/* border: 1px solid; */
+	text-align: center;
+}
 .Bg-Img {
-   border: 1px solid blue;
-   padding: 5rem 2rem;
+	width: 100%;
+	padding: 5rem 2rem;
 }
 .ContentMain {
-   border: 1px solid green;
-   background-color: hsl(218, 28%, 13%);
+	width: 100%;
+	/* border: 1px solid green; */
+}
+.MainBox {
+	width: 100%;
+	/* border: 1px solid green; */
+	padding: 1rem 1rem 7rem;
+	background-color: hsl(218, 28%, 13%);
+}
+.BgMain {
+	padding-top: 10.1rem;
+	margin-top: -8rem;
+	background-image: url(/assets/images/bg-curvy-mobile.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	/* background-attachment: fixed; */
+	/* background-position: center; */
+}
+.TextMain {
+	line-height: 2rem;
+	padding: 2rem 1rem;
+}
+.button {
+	margin: auto;
+	max-width: 20rem;
+}
+.ActionBtn {
+	border: none;
+	border-radius: 40px;
+	background-color: hsl(198, 60%, 50%);
+	padding: 1.5rem;
+	color: #fff;
+	font-weight: 700;
+	width: 100%;
+	height: 100%;
+	font-size: 1rem;
+}
+.MainItem {
+	padding: 3rem 0;
+	max-width: 29rem;
+	margin: auto;
+}
+.ItemImg {
+	padding: 3rem;
+	width: 100%;
+	max-width: 12rem;
+	margin: auto;
+}
+.ItemImg1 {
+	padding: 3rem;
+	width: 100%;
+	max-width: 15rem;
+	margin: auto;
+}
+.header_3 {
+	text-align: start;
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 3.5rem 1rem 0;
+}
+.HeaderText {
+	text-align: start;
+	line-height: 2rem;
+	padding: 1rem;
+}
+.BorderBottom {
+	max-width: fit-content;
+	border-bottom: 1px solid #69dbdb;
+	padding-bottom: 0.5rem;
+}
+.Review {
+	/* border: 1px solid red; */
+	padding: 1.2rem 2rem 15rem;
+	display: flex;
+	flex-direction: column;
+	row-gap: 2rem;
+	background-image: url(/assets/images/bg-quotes.png);
+	background-size: 22px;
+	background-repeat: no-repeat;
+	background-position: 10% 0;
+}
+.ReviewBox {
+	padding: 2.5rem 1rem 2rem;
+	background-color: hsl(219, 30%, 18%);
+	border-radius: 5px;
+	text-align: start;
+	line-height: 2rem;
+	box-shadow: 0px 0px 12px 2px rgba(36, 36, 36, 0.3);
+	-webkit-box-shadow: 0px 0px 12px 2px rgba(36, 36, 36, 0.3);
+	-moz-box-shadow: 0px 0px 12px 2px rgba(36, 36, 36, 0.3);
+}
+.ReviewContent {
+	display: flex;
+	padding-top: 2rem;
+	align-items: center;
+	gap: 1rem;
+}
+.ProfileImg {
+	width: 100%;
+	height: 100%;
+	max-width: 50px;
+	max-height: 50px;
+	border-radius: 50%;
+}
+.ProfileText {
+	font-size: 10px;
+	line-height: 12px;
+	font-weight: 400;
+}
+.EarlyAccess {
+	background-color: hsl(217, 28%, 15%);
+	padding: 2.5rem 2rem;
+	border-radius: 10px;
+	margin: 0 auto -21rem;
+	max-width: 55rem;
+	box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.15);
+}
+.Header_4 {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.FormBox {
+	display: flex;
+	flex-direction: column;
+	row-gap: 2rem;
+	padding: 0 1rem;
+	margin: auto;
+	max-width: 27rem;
+}
+#email-id {
+	color: rgb(156, 156, 156);
+	font-weight: lighter;
+	line-height: 4rem;
+	border-radius: 40px;
+	padding: 0 2rem;
+	border: none;
+}
+#footer {
+	width: 100%;
+	max-width: 1440px;
+	position: absolute;
+	z-index: -1;
+	padding-top: 17rem;
+	background-color: hsl(216, 53%, 9%);
+}
+.FooterBox {
+	display: flex;
+	padding: 3rem 2rem;
+}
+.FooterInfo {
+	display: flex;
+	padding: 0.5rem 0;
+}
+.FooterIcon {
+	padding: 0.5rem 1rem;
+	height: fit-content;
+}
+.FooterText {
+	text-align: start;
+	padding: 0 2rem;
+	line-height: 2rem;
+	font-size: 16px;
+}
+.FooterAbout {
+	padding: 5rem 1rem 0;
+	text-align: start;
+	display: flex;
+	flex-direction: column;
+	row-gap: 1.5rem;
+}
+.svg {
+	max-width: 25px;
+	max-height: 25px;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	padding: 5px;
+}
+.FooterLogo {
+	display: flex;
+	justify-content: center;
+	padding: 10rem 0 4rem;
+	margin: auto;
+	column-gap: 1rem;
 }
 .attribution {
 	font-size: 11px;
@@ -53,4 +242,141 @@ border: 1px solid yellow;
 }
 .attribution a {
 	color: hsl(228, 45%, 44%);
+}
+@media screen and (min-width: 425px) {
+	.BgMain {
+		padding-top: 11.1rem;
+	}
+	.Review {
+		background-position: 8% 0;
+	}
+}
+@media screen and (min-width: 480px) {
+	.BgMain {
+		padding-top: 12.2rem;
+	}
+	.Review {
+		background-position: 7% 0;
+	}
+}
+@media screen and (min-width: 768px) {
+	.Bg-desktop {
+		width: 80%;
+		margin: auto;
+	}
+	.BgMain {
+		padding-top: 4.1rem;
+		margin-top: -8rem;
+		background: none;
+	}
+	.BgDesktop {
+		background-color: hsl(217, 28%, 15%);
+		background-image: url(/assets/images/bg-curvy-desktop.svg);
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: 0 100%;
+		padding-bottom: 1rem;
+	}
+	.DesktopText {
+		max-width: 30rem;
+		margin: 0 auto;
+	}
+	.FormBox {
+		flex-direction: row;
+		max-width: 47rem;
+		column-gap: 3rem;
+	}
+	#email-id {
+		width: 100%;
+	}
+	.ActionBtn {
+		max-width: 15rem;
+	}
+	.Header-1 {
+		max-width: 40rem;
+		margin: auto;
+	}
+	.RowContent {
+		display: flex;
+		align-items: baseline;
+	}
+	.RowImageContent {
+		display: flex;
+	}
+	.RowImageContent {
+		display: flex;
+		justify-content: center;
+		column-gap: 5rem;
+	}
+	.Review {
+		flex-direction: row;
+		padding-top: 1.6rem;
+		column-gap: 1rem;
+		background-position: 3% 0%;
+		background-size: 2.5rem;
+	}
+	.header_3 {
+		font-size: 3rem;
+		max-width: 30rem;
+	}
+	.Header_4 {
+		font-size: 2em;
+	}
+	.EarlyAccess .TextMain {
+		max-width: 48rem;
+		margin: auto;
+	}
+	.FooterDesktop {
+		display: flex;
+	}
+}
+@media screen and (min-width: 1024px) {
+	.BgDesktop {
+		padding-bottom: 5rem;
+	}
+	.FooterContent {
+		display: flex;
+      justify-content: center;
+	}
+	.FooterAbout {
+		padding: 1rem 1rem 0;
+	}
+	.Review {
+		margin: auto;
+		column-gap: 3rem;
+		max-width: 78rem;
+	}
+	.FooterInfo {
+		max-width: 26rem;
+	}
+	.ActionBtn {
+		max-width: 20rem;
+	}
+}
+@media screen and (min-width: 1440px) {
+	.Header-1 {
+		max-width: 55rem;
+		margin: auto;
+		font-size: 3.1rem;
+	}
+	.DesktopText {
+		max-width: 44rem;
+		font-size: 1.5rem;
+		font-weight: lighter;
+	}
+	.BgDesktop {
+		padding-bottom: 25rem;
+		background-size: auto;
+		background-position: 0px 40%;
+	}
+	.MarginTop {
+		margin-top: -12rem;
+      padding: 0 13rem;
+	}
+   .Box1 {
+      max-width: 33rem;
+   }
+   .FooterBox {
+      padding-left: 6rem;
+   }
 }
