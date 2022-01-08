@@ -236,6 +236,9 @@ body {
 	margin: auto;
 	column-gap: 1rem;
 }
+.NavBox:hover {
+   cursor: pointer;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
