@@ -35,4 +35,6 @@ Users should be able to:
 - Flexbox
 - CSS Gri
 
-## Authord
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
