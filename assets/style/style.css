@@ -236,7 +236,7 @@ body {
 	margin: auto;
 	column-gap: 1rem;
 }
-.NavBox:hover {
+.NavBox:hover, .ActionBtn:hover {
 	cursor: pointer;
 }
 .attribution {
