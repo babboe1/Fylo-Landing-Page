@@ -237,7 +237,7 @@ body {
 	column-gap: 1rem;
 }
 .NavBox:hover {
-   cursor: pointer;
+	cursor: pointer;
 }
 .attribution {
 	font-size: 11px;
