@@ -256,7 +256,7 @@ body {
 	color: hsl(228, 45%, 44%);
 }
 .svg:hover {
-   background-color:rgb(51, 158, 204)
+	background-color: rgb(51, 158, 204);
 }
 @media screen and (min-width: 425px) {
 	.BgMain {
