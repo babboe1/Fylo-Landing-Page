@@ -253,6 +253,9 @@ body {
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
+.svg:hover {
+   background-color:rgb(51, 158, 204)
+}
 @media screen and (min-width: 425px) {
 	.BgMain {
 		padding-top: 11.1rem;
