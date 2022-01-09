@@ -239,6 +239,10 @@ body {
 .NavBox:hover, .ActionBtn:hover, .FooterAbout p:hover {
 	cursor: pointer;
 }
+.BorderBottom:hover {
+   cursor: pointer;
+   border-bottom: 1px solid #fff;
+}
 .attribution {
 	font-size: 11px;
 	text-align: center;
