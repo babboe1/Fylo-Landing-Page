@@ -236,7 +236,9 @@ body {
 	margin: auto;
 	column-gap: 1rem;
 }
-.NavBox:hover, .ActionBtn:hover, .FooterAbout p:hover {
+.NavBox:hover,
+.ActionBtn:hover,
+.FooterAbout p:hover {
 	cursor: pointer;
 }
 .BorderBottom:hover {
