@@ -247,6 +247,9 @@ body {
 	font-size: 11px;
 	text-align: center;
 }
+.ActionBtn:hover {
+   background-color: #8bd9e3; 
+}
 .attribution a {
 	color: hsl(228, 45%, 44%);
 }
