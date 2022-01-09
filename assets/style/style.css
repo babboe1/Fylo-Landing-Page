@@ -242,8 +242,8 @@ body {
 	cursor: pointer;
 }
 .BorderBottom:hover {
-   cursor: pointer;
-   border-bottom: 1px solid #fff;
+	cursor: pointer;
+	border-bottom: 1px solid #fff;
 }
 .attribution {
 	font-size: 11px;
