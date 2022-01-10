@@ -181,8 +181,8 @@ body {
 	margin: auto;
 	max-width: 27rem;
 }
-#email-id {
-	color: rgb(156, 156, 156);
+#email_id {
+	color: rgb(0, 0, 0);
 	font-weight: lighter;
 	line-height: 4rem;
 	border-radius: 40px;
