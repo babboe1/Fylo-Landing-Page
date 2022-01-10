@@ -242,6 +242,13 @@ body {
 .FooterAbout p:hover {
 	cursor: pointer;
 }
+.ErrorText {
+   display: none;
+   color: red;
+}
+.ErrorText.visible {
+   display: block;
+}
 .BorderBottom:hover {
 	cursor: pointer;
 	border-bottom: 1px solid #fff;
