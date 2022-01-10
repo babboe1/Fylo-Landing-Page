@@ -264,7 +264,7 @@ body {
 	background-color: #8bd9e3;
 }
 .attribution a {
-	color: hsl(228, 45%, 44%);
+   color: hsl(228, 45%, 44%);
 }
 .svg:hover {
 	background-color: rgb(51, 158, 204);
