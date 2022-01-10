@@ -188,6 +188,7 @@ body {
 	border-radius: 40px;
 	padding: 0 2rem;
 	border: none;
+   width: 100%;
 }
 #footer {
 	width: 100%;
