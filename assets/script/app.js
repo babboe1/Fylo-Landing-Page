@@ -35,4 +35,6 @@ const clearInput = () => {
    USER_INPUT.value = '';
 };
 
-
+BACKDROP.addEventListener('click', backDropHandler);
+ACTION_BTN.addEventListener('click', actionBtnHandler);
+OK_BTN.addEventListener('click', okBtnHandler);
