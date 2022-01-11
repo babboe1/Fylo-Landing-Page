@@ -251,25 +251,25 @@ body {
 	cursor: pointer;
 }
 .ErrorText {
-   display: none;
-   color: red;
+	display: none;
+	color: red;
 }
 .ErrorText.visible {
-   display: block;
+	display: block;
 }
 .BorderBottom:hover {
 	cursor: pointer;
 	border-bottom: 1px solid #fff;
 }
 .ActionBtn:hover {
-   background-color: #8bd9e3;
+	background-color: #8bd9e3;
 }
 .attribution {
 	font-size: 11px;
 	text-align: center;
 }
 .attribution a {
-   color: hsl(228, 45%, 44%);
+	color: hsl(228, 45%, 44%);
 }
 #gratitude {
 	display: flex;
