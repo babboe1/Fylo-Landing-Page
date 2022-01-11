@@ -437,6 +437,10 @@ body {
 	.ActionBtn {
 		max-width: 20rem;
 	}
+	.header_3 {
+		font-size: 3rem;
+		max-width: 30rem;
+	}
 }
 @media screen and (min-width: 1440px) {
 	.Header-1 {
