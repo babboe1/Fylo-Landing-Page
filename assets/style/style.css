@@ -90,6 +90,10 @@ body {
 	height: 100%;
 	font-size: 1rem;
 }
+#ok_btn {
+   width:80%;
+   max-width: 18rem;
+} 
 .MainItem {
 	padding: 3rem 0;
 	max-width: 29rem;
