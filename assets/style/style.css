@@ -365,7 +365,7 @@ body {
 	}
 	.FormBox {
 		flex-direction: row;
-		max-width: 47rem;
+		max-width: 50rem;
 		column-gap: 3rem;
 	}
 	#email-id {
