@@ -428,6 +428,9 @@ body {
 		column-gap: 3rem;
 		max-width: 78rem;
 	}
+	.RowImageContent {
+		column-gap: 5rem;
+	}
 	.FooterInfo {
 		max-width: 26rem;
 	}
