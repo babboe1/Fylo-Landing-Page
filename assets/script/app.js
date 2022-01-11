@@ -5,3 +5,8 @@ const ACTION_BTN = document.getElementById('action_btn');
 const OK_BTN = document.getElementById('ok_btn');
 const USER_INPUT = document.getElementById('email_id');
 const ERROR_TEXT = document.querySelector('.ErrorText');
+
+const BackDrop = () => {
+   BACKDROP.classList.toggle('visible');
+   ERROR_TEXT.classList.remove('visible');
+};
