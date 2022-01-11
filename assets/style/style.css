@@ -305,6 +305,22 @@ body {
 	display: block;
 	pointer-events: all;
 }
+.Modal {
+	position: absolute;
+	z-index: 100;
+	color: black;
+	background: white;
+	border-radius: 10px;
+	width: 85%;
+	max-width: 35rem;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+	display: none;
+	overflow-y: initial;
+	padding: 2rem 2rem 1rem;
+}
 
 @media screen and (min-width: 425px) {
 	.BgMain {
