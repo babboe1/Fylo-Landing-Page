@@ -10,3 +10,29 @@ const BackDrop = () => {
    BACKDROP.classList.toggle('visible');
    ERROR_TEXT.classList.remove('visible');
 };
+const StopScroll = () => {
+	BODY.classList.toggle('StopScroll');
+	document.documentElement.scrollTop = 0;
+};
+const ModalVisibility = () => {
+	GRATITUDE.classList.toggle('visible');
+};
+
+const backDropHandler = () => {
+	BackDrop();
+	StopScroll();
+   ModalVisibility();
+   clearInput();
+};
+
+const actionBtnHandler = () => {
+   emailValidationHandler();
+};
+const okBtnHandler = () => {
+	backDropHandler();
+};
+const clearInput = () => {
+   USER_INPUT.value = '';
+};
+
+
