@@ -301,6 +301,10 @@ body {
 	pointer-events: none;
 	display: none;
 }
+#backdrop.visible {
+	display: block;
+	pointer-events: all;
+}
 
 @media screen and (min-width: 425px) {
 	.BgMain {
