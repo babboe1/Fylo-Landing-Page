@@ -196,7 +196,7 @@ body {
 	border-radius: 40px;
 	padding: 0 2rem;
 	border: none;
-   width: 100%;
+	width: 100%;
 }
 #footer {
 	width: 100%;
@@ -267,9 +267,6 @@ body {
 .attribution {
 	font-size: 11px;
 	text-align: center;
-}
-.ActionBtn:hover {
-	background-color: #8bd9e3;
 }
 .attribution a {
    color: hsl(228, 45%, 44%);
@@ -388,7 +385,6 @@ body {
 	.RowImageContent {
 		display: flex;
 		justify-content: center;
-		column-gap: 5rem;
 	}
 	.Review {
 		flex-direction: row;
