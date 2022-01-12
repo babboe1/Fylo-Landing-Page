@@ -87,6 +87,9 @@ body {
 	width: 100%;
 	height: 100%;
 }
+.ActionBtn a {
+   text-decoration: none;
+}
 #ok_btn {
 	width: 80%;
 	max-width: 18rem;
