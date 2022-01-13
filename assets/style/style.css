@@ -21,7 +21,6 @@ body {
 	max-width: fit-content;
 }
 #body_container {
-	/* border: 1px solid red; */
 	background-color: hsl(217, 28%, 15%);
 	width: 100%;
 	max-width: 1440px;
