@@ -55,7 +55,6 @@ body {
 }
 .MainBox {
 	width: 100%;
-	/* border: 1px solid green; */
 	padding: 1rem 1rem 7rem;
 	background-color: hsl(218, 28%, 13%);
 }
