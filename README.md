@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
-- Live Site URL: [Add live site URL here](https://fylo-landing-page-babboe1.netlify.app/)
+-  Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
+-  Live Site URL: [Add live site URL here](https://fylo-landing-page-babboe1.netlify.app/)
 
 ## My process
 
