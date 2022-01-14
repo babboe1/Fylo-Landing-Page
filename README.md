@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
