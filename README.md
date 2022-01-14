@@ -40,4 +40,4 @@ Users should be able to:
 
 - linkedin - [Ayodele Abiola](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/)
 - Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/babboe1)
-- Twitter - [@ausstinab](https://www.twitter.com/yourusername)
+- Twitter - [@ausstinab](https://www.twitter.com/ausstinab)
