@@ -38,6 +38,6 @@ Users should be able to:
 
 ## Author
 
-- linkedin - [Ayodele Abiola](https://www.your-site.com)
+- linkedin - [Ayodele Abiola](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/)
 - Frontend Mentor - [@babboe1](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@ausstinab](https://www.twitter.com/yourusername)
