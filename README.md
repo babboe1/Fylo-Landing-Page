@@ -23,6 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
+Below is a preview
+
 ### Links
 
 -  Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
