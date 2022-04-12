@@ -21,6 +21,8 @@ Users should be able to:
 -  View the optimal layout for the site depending on their device's screen size
 -  See hover states for all interactive elements on the page
 
+### Screenshot
+
 ### Links
 
 -  Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
