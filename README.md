@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 Below is a preview of the Fylo Landing Page challenge by Frontend Mentor <br />
-![screenshot]
+![screenshot](./assets/image/Preview.jpg?raw=true "Preview Image")
 
 ### Links
 
