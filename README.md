@@ -28,7 +28,7 @@ Below is a preview
 ### Links
 
 -  Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
--  Live Site URL: [Add live site URL here](https://fylo-landing-page-babboe1.netlify.app/)
+-  Live Site URL: [Flyo Landing Page](https://fylo-landing-page-babboe1.netlify.app/)
 
 ## My process
 
