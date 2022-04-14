@@ -27,7 +27,7 @@ Below is a preview
 
 ### Links
 
--  Solution URL: [Fylo Landing Page ](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
+-  Solution URL: [Fylo Landing Page Challenge Solution Link](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-_f8O9vZ19)
 -  Live Site URL: [Flyo Landing Page](https://fylo-landing-page-babboe1.netlify.app/)
 
 ## My process
